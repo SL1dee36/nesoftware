@@ -3,5 +3,9 @@
   "Accounts": {
     "cuwodb":  "nevermind",
     "slaid":   "admin"
+  },
+  "ID": {
+    "cuwodb":  "exports00001",
+    "slaid":   "exports01001"
   }
 }
