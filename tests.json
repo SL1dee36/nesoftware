@@ -2,10 +2,12 @@
   "Version": 1.0,
   "Accounts": {
     "cuwodb":  "nevermind",
-    "slaid":   "admin"
+    "slaid":   "admin",
+    "Aboba228": "Aboba228"
   },
   "ID": {
     "cuwodb":  "exports01001",
-    "slaid":   "exports00001"
+    "slaid":   "exports00001",
+    "Aboba228": "exports00001"
   }
 }
